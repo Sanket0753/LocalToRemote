@@ -1,2 +1,3 @@
 -Local Repository
 -Added new comment for checking feature branch(Conflict)
+-Added new comment for checking feature branch(Merge Conflict)
